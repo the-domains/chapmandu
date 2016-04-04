@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adam's Digital Cesspool]]></title>
+        <description><![CDATA[Adam's Digital Cesspool]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 04:10:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Create globally unique URLs within CFWheels applications]]></title>
+            <description><![CDATA[<article><h1>Create globally unique URLs within CFWheels applications</h1><p>One great feature of the CFWheels framework is being able to override inbuilt functions, yet still be able to call the core function from within. This allows you to slightly tweak core functions without having to copy, paste & butcher core code, which would 1) go against the DRY principle, and 2) create possible legacy...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/334e6f26a27868da2d99258bfceb234c0b2f1842.jpg"></article>]]></description>
+            <link>http://chapmandu.com/2016/01/26/create-globally-unique-urls-within-cfwheels-applications/</link>
+            <guid isPermaLink="false">beeba2a9-ade4-46ab-9538-7b4fa95d3208</guid>
+            <pubDate>Mon, 04 Apr 2016 04:10:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
